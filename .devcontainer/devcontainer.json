@@ -1,0 +1,5 @@
+{
+  "name": "Forge 1.8.9 Dev",
+  "image": "mcr.microsoft.com/devcontainers/java:8",
+  "postCreateCommand": "java -version"
+}
